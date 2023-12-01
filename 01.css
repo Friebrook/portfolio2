@@ -1,0 +1,17 @@
+body {
+    padding-top: 56px; 
+}
+
+.jumbotron {
+    background-image: url('13.jpg');
+    background-size: cover;
+    color: #801d1d;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.style1 {
+    margin-bottom: 30px;
+    color: rgb(34, 71, 71);
+    
+}
